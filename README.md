@@ -2,7 +2,9 @@
 
 这个账户用于存放一些不太适合主身份的实验。
 
-<mailto://anling@tuta.io>
+<p align='right'> Moon Adherent </p>
+
+GPG Key:
 
 mQINBGmZ2wgBEAC0xeu+6F0YSRaUgMN7z9mrSsS1jDOjEvkVl4wdQgQu1gJzrrQY
 FpHA2fyaEwoppnSzpmv4xQw1NPtd/XA3mPQiorSGzZj8lN2rLaAvve2MqKRnY6T9
