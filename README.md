@@ -1,11 +1,11 @@
 有些路径是公开的，有些不是。
 
-这个账户用于存放一些不太适合主身份的实验。
+这个账户用于存放一些不太适合主身份的实验，有些只是为了好玩。
 
 <p align='right'> Moon Adherent </p>
 
-GPG Key:
-
+<div align="center">
+<h2>GPG Key:</h2>
 mQINBGmZ2wgBEAC0xeu+6F0YSRaUgMN7z9mrSsS1jDOjEvkVl4wdQgQu1gJzrrQY
 FpHA2fyaEwoppnSzpmv4xQw1NPtd/XA3mPQiorSGzZj8lN2rLaAvve2MqKRnY6T9
 2rddZCGyZPpcWd+jM4bWPR97rBusL2l1dn89k0BUCLGHLsPWh3RnMe7qLaixFq5g
@@ -55,3 +55,4 @@ VEAUuU9Fl44BLHUqfARvdVxmbp6tUpautYn8eObuSWQLXyZiWGEjhaPpYRRaFObi
 aZiA4CAy3YJgVuxQJO1Es0v4B0sKluX6Y6slfeTCzt8c8gY2pErn2TuVwwmWWdvI
 /aX3IA==
 =U6Ci
+</div>
