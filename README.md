@@ -6,6 +6,7 @@
 
 <div align="center">
 <h2>GPG Key:</h2>
+<small>
 mQINBGmZ2wgBEAC0xeu+6F0YSRaUgMN7z9mrSsS1jDOjEvkVl4wdQgQu1gJzrrQY
 FpHA2fyaEwoppnSzpmv4xQw1NPtd/XA3mPQiorSGzZj8lN2rLaAvve2MqKRnY6T9
 2rddZCGyZPpcWd+jM4bWPR97rBusL2l1dn89k0BUCLGHLsPWh3RnMe7qLaixFq5g
@@ -54,5 +55,7 @@ sVLXH8QM3UIkG5PJAxrx8mTQ54gzPhhKO+AQHdVHltaZnURJkx65dygLp5k74GGH
 VEAUuU9Fl44BLHUqfARvdVxmbp6tUpautYn8eObuSWQLXyZiWGEjhaPpYRRaFObi
 aZiA4CAy3YJgVuxQJO1Es0v4B0sKluX6Y6slfeTCzt8c8gY2pErn2TuVwwmWWdvI
 /aX3IA==
+
 =U6Ci
+</small>
 </div>
